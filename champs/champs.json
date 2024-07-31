@@ -1,0 +1,38 @@
+[
+    {
+        "id": "aatrox",
+        "key": "266",
+        "name": "Aatrox",
+        "title": "the Darkin Blade",
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Aatrox.png",
+        "description": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find..."
+      },
+      {
+        "id": "garen",
+        "key": "86",
+        "name": "Garen",
+        "title": "The Might of Demacia",
+        "tags": [
+          "Fighter",
+          "Tank"
+        ],
+        "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Garen.png",
+        "description": "A proud and noble warrior, Garen fights as one of the Dauntless Vanguard. He is popular among his fellows, and respected well enough by his enemies—not least as a scion of the prestigious Crownguard family, entrusted with defending Demacia and its..."
+      },
+      {
+        "id": "vi",
+        "key": "254",
+        "name": "Vi",
+        "title": "the Piltover Enforcer",
+        "tags": [
+          "Fighter",
+          "Assassin"
+        ],
+        "icon": "http://ddragon.leagueoflegends.com/cdn/10.23.1/img/champion/Vi.png",
+        "description": "Once a criminal from the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with only a very loose respect for authority figures. Growing up all but alone, Vi developed finely honed survival instincts as well as a wickedly abrasive..."
+      }
+]
